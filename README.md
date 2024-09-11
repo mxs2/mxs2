@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-I'm **Mateus Xavier**, Information Technology Management student, data enthusiast, curious about design, music, management and from Recife, Pernambuco, Brazil.
+I'm **Mateus Xavier**, Systems Analysis and Development student, curious about design, music, communities and from Recife, Pernambuco, Brazil.
 
 - ✨ Pronouns: **he/him**
-- 🎒 Pursuing A.D. in **IT Management** at **CESAR School**
-- 📙 Representative of **ITM 2023.2A** class
-- 💙 Undergrad Intern at [**Voxar Labs**](https://voxarlabs.cin.ufpe.br/)
-- 🦾 Software Developer at [**Pocketfisio**](https://pocketfisio.com//) 
+- 🎒 Pursuing A.D. in **Systems Analysis and Development** at **CESAR School**
+- 💙 Software Engineer, Intership at [**Liferay**](https://www.liferay.com)
 
 Looking for more info about me? [**Check out my website**](https://mxs2.com.br/) or [**curriculum!**](./docs/mxs2.pdf)
 
 ## Technologies and tools
 
 - Currently working with **Web technologies** (mostly TypeScript).
-- Also have previous experiences with **Python** and **Java**.
+- Also have previous experiences with **ESP32** and **PyTorch**.
