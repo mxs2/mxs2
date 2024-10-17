@@ -2,7 +2,6 @@
 
 I'm **Mateus Xavier**, Systems Analysis and Development student, curious about design, music, communities and from Recife, Pernambuco, Brazil.
 
-- ✨ Pronouns: **he/him**
 - 🎒 Pursuing A.D. in **Systems Analysis and Development** at **CESAR School**
 - 💙 Software Engineer, Intership at [**Liferay**](https://www.liferay.com)
 
