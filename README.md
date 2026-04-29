@@ -2,7 +2,7 @@
 ## Hi
 
 <div align="center">
-  <img height="200" src="https://www.parquedasaves.com.br/wp-content/uploads/2026/02/Tucano-toco.jpg"  />
+  <img height="200" src="https://i.imgur.com/QBmHYiB.png"  />
 </div>
 
 I'm Mateus, a Backend Software Engineer working for @ Liferay;
